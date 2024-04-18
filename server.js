@@ -22,7 +22,7 @@ connection.once('open', () => {
 
 
 // import routes
-const bookRouter = require('./routes/App');
+const bookRouter = require('./routes');
 
 // adding /book to before all routes
 app.use('/book', bookRouter);
