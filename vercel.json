@@ -13,6 +13,6 @@
       }
     ],
     "env": {
-      "ATLAS_URI": "mongodb+srv://kavinda:12345@cluster0.j2qmsdh.mongodb.net/candle_shop?retryWrites=true&w=majority&appName=Cluster0"
+      "ATLAS_URI": "mongodb+srv://nadeera:<password>@cluster0.70w69dv.mongodb.net/finalstudies?retryWrites=true&w=majority&appName=Cluster0"
     }
   }
